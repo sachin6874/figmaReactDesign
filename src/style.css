@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.header{
+    
+    background: #FFFFFF;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+}
+.header img{
+   margin: 1rem 2rem;
+}
+.middle-section{
+    width: 55vw;
+    margin:  2rem auto ;
+}
+.hero-image img{
+    width: 70%;
+    margin: 0 6rem;
+}
+.experience h1{
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 78.6px;
+}
+.experience p{
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 22.6px;
+    width: 50%;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.card{
+    margin: 1.7rem;
+}
+.upper-card{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: .5rem ;
+    position: relative;
+    
+}
+.soldout{
+    position: absolute;
+    left: 3.2%;
+    top: 3.2%;
+}
+

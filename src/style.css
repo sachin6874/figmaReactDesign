@@ -12,6 +12,9 @@
     justify-content: space-between;
 
 }
+#dark .header{
+    box-shadow:0px 2px 11px grey;;
+}
 #light{
     background-color:#FFFFFF;
     color: black;
@@ -65,7 +68,8 @@
     margin: 1.7rem;
 }
 #dark .card{
-    box-shadow:6px 5px 16px grey;
+    box-shadow:0px 0px 10px grey;
+    border-radius: 10px;
 }
 .upper-card{
     display: flex;

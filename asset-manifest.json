@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/figmaReactDesign/static/css/main.6538403d.css",
+    "main.css": "/figmaReactDesign/static/css/main.b6bbf3d4.css",
     "main.js": "/figmaReactDesign/static/js/main.bca1d63b.js",
     "static/media/Group 77.png": "/figmaReactDesign/static/media/Group 77.1ca627230749311778aa.png",
     "static/media/image 12.png": "/figmaReactDesign/static/media/image 12.792794ab674ef50721ed.png",
     "static/media/wedding-photography 1.png": "/figmaReactDesign/static/media/wedding-photography 1.f6a763981f8a4b8a17b9.png",
     "static/media/mountain-bike 1.png": "/figmaReactDesign/static/media/mountain-bike 1.df8d4e1594f77411dc1e.png",
     "index.html": "/figmaReactDesign/index.html",
-    "main.6538403d.css.map": "/figmaReactDesign/static/css/main.6538403d.css.map",
+    "main.b6bbf3d4.css.map": "/figmaReactDesign/static/css/main.b6bbf3d4.css.map",
     "main.bca1d63b.js.map": "/figmaReactDesign/static/js/main.bca1d63b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6538403d.css",
+    "static/css/main.b6bbf3d4.css",
     "static/js/main.bca1d63b.js"
   ]
 }
